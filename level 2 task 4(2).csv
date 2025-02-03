@@ -1,0 +1,746 @@
+is chain,Yes,
+,,
+Restaurant Name,Average of Aggregate rating,Average of Votes
+Truffles,3.95,4841
+Joey's Pizza,4.25,3903.5
+AB's - Absolute Barbecues,4.825,3350
+Big Chill,4.475,2713.25
+Big Yellow Door,4.266666667,2503.666667
+Out Of The Box,3.85,2450
+Saravana Bhavan,4.133333333,2412.666667
+Olive Bistro,4.15,1854
+Talaga Sampireun,4.9,1838
+SpiceKlub,4.3,1825.5
+SodaBottleOpenerWala,4.066666667,1791.333333
+Wood Box Cafe,3.95,1724.5
+Farzi Cafe,4.366666667,1683
+Chili's,4.58,1631.2
+AB's Absolute Barbecues,4.85,1575.5
+The Flying Saucer Cafe,4.1,1572.5
+Naturals Ice Cream,4.8,1547
+The Cheesecake Factory,4.65,1505
+Raasta,3.85,1471.5
+Pirates of Grill,4,1426.4
+Tea Villa Cafe,3.925,1291.75
+Imperfecto,3.55,1273
+QD's Restaurant,4.033333333,1178.666667
+Hard Rock Cafe,4.2,1163.666667
+Smoke House Deli,4.05,1146
+Punjab Grill,4.34,1084.8
+Barbeque Nation,4.353846154,1082.384615
+The Chatter House,4.1,1068
+Desi Vibes,3.9,1014.333333
+Oh! Calcutta,4.1,999.5
+Ceviche Tapas Bar & Restaurant,4.25,996.5
+Bombay Brasserie,4.4,992
+Made In Punjab,4.05,958.5
+Effingut Brewerkz,4.3,953
+Onesta,4.5,940.3333333
+Cafe Delhi Heights,4.033333333,903.6666667
+Garam Dharam,3.55,902.5
+The Junkyard Cafe,3.85,882.5
+Mamagoto,4.166666667,877.6666667
+Pebble Street,3.95,851.5
+Imly,3.9,844.5
+Naivedyam,3.866666667,827
+Nando's,3.14,809
+Caffe Tonino,3.85,802
+Shake Square,3.65,797
+Salt,4.25,789.5
+Punjabi by Nature,3.666666667,776
+Ichiban,4.1,766.5
+Teddy Boy,3.75,763.5
+Whipped,4.2,748.5
+Palmshore,4.3,742.6666667
+TGI Friday's,3.85,726.1666667
+Sbarro,3.4,704
+Paradise,3.7,687
+Silantro Fil-Mex,4.85,682
+Jungle Jamboree,3.825,676.25
+Khan Chacha,2.471428571,658.5714286
+Dishoom,4.6,634.5
+Amici Cafe,3.7,632
+Bikkgane Biryani,3.966666667,627.3333333
+Matchbox,4.4,607
+Indian Coffee House,3.533333333,603.6666667
+Town Hall,3.65,599.5
+Berco's,3.166666667,599.3333333
+Nizam's Kathi Kabab,3.65,589
+China Garden,3.85,579.5
+The Crab Shack,3.95,556
+Zaffran,4.166666667,553.6666667
+Not Just Paranthas,3.333333333,549
+The Big Chill Cakery,4.45,529.5
+Karim's,3.030769231,529.0769231
+Asian Haus,4,523
+The Great Kabab Factory,3.5,519
+Caffe 9,4.2,515
+Din Tai Fung,4.35,498.5
+Gola Sizzlers,3.3,492
+Kake Da Hotel,3.28,465.4
+Zizo,3.866666667,457
+San Carlo,4.25,446.5
+Mocha,4.185714286,444.4285714
+The Barbeque Company,4,434.5
+Gazebo,4.166666667,426.3333333
+Mainland China,3.716666667,423.5
+Krispy Kreme,3.933333333,419
+Suruchi,3.6,418
+Embassy,3.25,416
+Baker Street,3.85,415.5
+Munch Nation,3.9,411.5
+Wendy's,3.8,407
+Chili's Grill & Bar,3.95,406.5
+Baking Bad,3.75,397.5
+Starbucks,3.805555556,396.6111111
+Harry's Bar + Cafe,3.65,393.5
+Rhinehart's Oyster Bar,4,391
+Deez Biryani & Kebabs,3.65,383
+Cinnabon,4,378.5
+Smaaash,3.95,371.5
+Khidmat,3.5,370.5
+Natural Ice Cream,4.5,366
+Swagath,3.62,363.8
+Circus,3.95,359.5
+Eggers Madhouse,3.85,349
+The Fisherman's Wharf,4.266666667,340.6666667
+Pita Pit,3.7,340.6
+Changezi Chicken,3.5,339
+Kake Di Hatti,3.55,339
+The National,4.15,338.5
+Italiano,3.3,337
+10 Downing Street,4,335
+Perch Wine & Coffee Bar,4.25,332.5
+The Beer Cafe,3.016666667,331.1666667
+Gung The Palace,3.95,315
+Granite City Food & Brewery,4.05,314
+Mellow Mushroom,4.25,312.5
+The Cafe,4.35,295
+Happy Hakka,3.86,294.2
+Side Wok,3.866666667,291.6666667
+Burger King,3.40625,288.5625
+Cafe Turtle,3.433333333,287
+Nanking,3.65,284.5
+Haldiram's,3.625,282.8125
+Bhimsain's Bengali Sweet House,3.15,282
+Captain Grub,3.54,281.6
+Instapizza,3.8,281.2
+Pind Balluchi,2.63,279.1
+Cafe Brown Sugar,3.65,275.5
+Taco Bell,3.866666667,275
+Red Mango,3.65,275
+Kebab Gali,3.9,272
+Dunkin' Donuts,3.136363636,271.5454545
+Theos,3.8,264.5
+Applebee's,3.9,264.25
+Defence Bakery,3.7,263.6666667
+Basil Tree,2.9,263.5
+Bijoli Grill,3.7,262.5
+DCK- Dana Choga's Kitchen,3.125,259.25
+RollsKing,3.7,259.1428571
+MR.D - Deliciousness Delivered,3.4,257.5
+Kolkata Biryani House,3.1,256.5
+Au Bon Pain,3.25,255.5
+Crazy Noodles,1.8,254.5
+Burger Singh,3.433333333,252.3333333
+Carl's Jr.,3.65,251.5
+The Breakfast Club,4,251
+Delhi Club House,4,248.5
+Fish Streat,3.7,241.5
+Nooba,3.7,240.5
+Manohar Dairy And Restaurant,4.25,240.5
+Rollmaal,3.4,239.6666667
+Kaveri Restaurant And Caterers,3.7,236
+Taste Of China,3.75,236
+Twigly,4.55,235.5
+Nazeer Foods,3.328571429,232.5714286
+Invitation,1.8,230
+Hungry - I,3.15,228.5
+Cafe Diva,3.85,228
+The Midnight Heroes,3.66,222.2
+The Yellow Chilli,3.671428571,218
+Yo! China,2.988888889,216.7777778
+Wai Yu Mun Ching,3.55,216.5
+The Coffee Bean & Tea Leaf,3.425,213.75
+Burgrill,4.45,213.5
+Tipu Sultan,3.85,213.5
+Bikanervala,3.192857143,212.8571429
+Om Sweets & Snacks,3.133333333,212.6666667
+Sagar Ratna,2.963157895,212.5263158
+Hawkers,3.05,212
+Metro Dhaba,1.9,209.5
+L'Opera,3.82,209.2
+Nutritious Nation,3.55,208
+Speedy Chow,3.466666667,207.6666667
+The Creamery,4.05,207.5
+HuHot Mongolian Grill,3.766666667,206
+Cafe Coffee Day The Square,3.65,205
+Adyar Ananda Bhavan,3.15,203.5
+New Town Cafe - Park Plaza,3.9,202
+Nathu's Sweets,2.72,200.6
+Arabian Nites,3.65,198.5
+Chokola,3.45,198.5
+D?_ner Grill,3.8,196.6666667
+Kamal's,3.25,194.5
+Colonel's Kababz,3.2,191.5
+The Manhattan FISH MARKET,4,188
+Slice of Italy,2.6625,187
+Qureshi's Kabab Corner,3.575,186
+Barbeque Ville,4.1,186
+Aureo Dine & Bake House,1.75,185
+Biryani By Kilo,4,184.3333333
+Wok On Fire,3.8,180.6666667
+Big Wong XL,3.95,180.5
+Biryani Art,3.7,176
+Dilli BC,4.25,175.5
+Anjlika Pastry Shop,3.75,174.5
+Underdoggs Sports Bar & Grill,4.35,173
+Chaophraya,4.166666667,168.3333333
+Burger Hut,3.2,167.5
+The Mad Teapot/The Wishing Chair,4.25,167
+Beliram Degchiwala,3.5,166.5
+Jamie's Italian,4.05,165.75
+Pizza Hut,3.32,165.3666667
+Habibi,3.4,165
+Gymkhana,4.7,164
+Americana Kitchen and Bar,2.6,163
+Spice Route,3.5,159.5
+Fat Lulu's,3.75,159.5
+Ashoka Restaurant,3.55,159
+Paapi Paet,3.45,159
+Kamboj's,2.6,157.5
+Sandwich King,3.65,157
+Texas Roadhouse,3.86,156.6
+Litti.In,3.4,156
+Chai Point,3.1,155.75
+Angels in my Kitchen,3.4125,155.125
+Bun Intended,3.95,153.75
+All About Food,1.95,152.5
+Bon Bon Pastry Shop,3.3,152
+Alaturka,2.95,151
+Comesum,2.35,150
+Bake N Shake,4.2,148.6666667
+Mysore Cafe,3.6,145.5
+BTW,3.285714286,142.5714286
+D?_vero??lu,4.3,141.5
+Khana Khazana,1.85,140.5
+Blue Tokai Coffee Roasters,3.85,139.5
+Open Oven,3.475,138.25
+Chaayos,3.538888889,137.3888889
+Otik Cake Shop,3.65,135.5
+Mad Over Donuts,3.74,135.2
+Urban Punjab,3.433333333,134.3333333
+Chalte Firte Momos & Special Foods,3.35,133.5
+La Pino'z Pizza,3.966666667,131.3333333
+KFC,2.744444444,129.5
+Biryani Blues,3.666666667,129.3333333
+Goosebumps,3.8,129
+Chutneez Restaurant Lounge & Bar,2.55,128
+Hong Kong Express,3.475,127.5
+Pho King Awesome,2.05,127
+Nite Bites,3.175,126.75
+Big Fat Sandwich,3.2,126.5
+New Kadimi,2.9,126
+Hwealthcafe,3.8,126
+Bakers Oven,3.6,126
+Moti Mahal Delux- Legendary Culinary,3.6,124.5
+Drifters Cafe,4,124
+Twisted Tacos,3.6,121
+Beijing Street,3.7,121
+Baker's Stop,3.75,120.5
+Sibang Bakery,3.7,120
+Nirula's,2.65,119.5
+Drool Waffles,3.65,118.5
+FreshMenu,3.725,116.75
+Little Italy,3.55,113.5
+Oberoi Biryani,2.75,112.5
+Dabba Meat,3.25,112
+Black Pepper,2.05,111.5
+McDonald's,3.339583333,110.2291667
+The Artful Baker,2,110
+Green Leaf,3.25,110
+First Eat,3.8,109.5
+Finger Licious,2.2,108.3333333
+Puri Bakers,3.725,108
+Southy,2.716666667,107.1666667
+The Chocolate Room,3.5,107
+Arabian Delites,3.6,107
+Timboo Cafe,4.2,106.5
+Little Chef,3.4,106
+Shyam Sweets,3.45,104.5
+Stop My Starvation,4.3,104.5
+Food Scouts,4.433333333,104
+Fast Trax,3.3,103.5
+Tikka Town,3.033333333,103
+Mithaas,3.05,102.5
+Wow! Momo,2.754545455,101.7272727
+The Pint Room,3.7,101.5
+Doughlicious,3.5,101.3333333
+The Golden Dragon,2.833333333,101.3333333
+Hot Cherries,3.6,100
+Chowringhee,2.5625,98.125
+Patiala Shahi,3.45,98
+Subway,2.907936508,97.20634921
+Chick-fil-A,3.7,96
+Bengal Sweet Corner,2.8,96
+Say Cheese,2.7,96
+Mr. Brown,3.866666667,95
+Moon Bite,3.2,95
+Big Dragon,3.35,94.5
+Jahangeer Foods,3.25,94
+Dunkin Donuts,4,94
+Crudo Juicery,4.3,93.5
+Yumm Biryani,3.2,93.5
+Taste of India,2.1,93
+Chawla's,3.35,92.5
+Nazeer Delicacies,3.3,92
+Goli Vada Pav No. 1,2.75,91.33333333
+Captain Bill$ Deliverz,2.533333333,91
+Tamura,3.4,91
+Let's Noodle,1.3,91
+Baked Buns,3.4,91
+Mitra Da Dhaba,2.1,91
+Dezertfox,3.9,90.5
+Fit Bites,3.75,90
+La Americana,3.65,90
+Kebab Xpress,3.025,88.5
+Hungry Minister,3.5,88
+4700BC Popcorn,3.5,88
+Sugar & Spice - Le Marche,2.9,87.75
+Cake Palace,3.25,85.5
+Shawarma Wala,2.066666667,85
+Kulcha King,1.9,85
+Wrapss,2.566666667,85
+Movenpick,3.966666667,84.33333333
+Domino's Pizza,2.740506329,84.08860759
+Moti Mahal Delux Tandoori Trail,2.733333333,83.5
+Nagpal's,3.45,83
+The Tandoor,3,83
+Sethi's The Cake Shop,3.35,83
+Burger Joint,1.75,82.5
+Perfect Bake,3.55,82.5
+Moksha,3.45,82
+Caff?? La Poya,1.85,82
+Cook Du Kdu,3.15,82
+Kanha Sweets,3.45,82
+Hunger Strike,3.5,81
+Pizza Hut Delivery,2.657894737,80.36842105
+Los Agaves,2.05,80
+Chinese Corner,1.24,79.6
+Romi Da Dhaba,3.15,78
+Hornbill,3.55,78
+Kanwarji's,3.433333333,77.33333333
+Hotel Malabar,3.3,76.5
+Cones & Curries,1.85,76.5
+High On Burgers,3.35,76
+Paramjeet Machi Wala,3.5,76
+Frozen Factory,3.8,75.5
+Country Curries,3.1,73.5
+Moti Mahal Delux,3,73.07142857
+Ashok Meat Wala,3.55,73
+Manohar Bikkaneri,3.7,72.5
+Shree Rathnam,3,72.2
+221 B Baker Street,3.366666667,71.66666667
+Bobby Tikki Wala,2.9,71.5
+Shawarma King's,3.4,71.5
+Gupta Chat Corner,3.5,71.5
+Bhoj Restaurant,3.25,71.5
+Kerala Cafe,3.066666667,71.33333333
+Koyla Kebab,3.35,70.5
+Le Chef,3.15,70
+The Chai Story,3.7,68.66666667
+Flying Cakes,2.233333333,68.33333333
+Dilli Darbar,3.1,68
+Sanjha Chulha,2.416666667,66.33333333
+Punjabi Pakwaan,3.133333333,66.33333333
+Al Bake,2.95,66
+Chawla's Tandoori Junction,2.266666667,65
+"34, Chowringhee Lane",2.791666667,64.75
+Food Express,1.8,64
+Night Food Xprs,2.7,63.5
+Cocoberry,3.422222222,62.66666667
+The Kathis,3,61.75
+Zaika,2.85,61.25
+Muffins,2.7,61
+Chawla's Tandoori Xpress,2.85,60
+Hot Stuff,3.4,59.5
+Habibi Express,1.5,59
+Laxmi Ice Cream,3.55,59
+Angeethi,3.05,59
+bu??no,3.75,58.5
+Chawnsan Chef,3.4,58.5
+Hot Pot,2.075,58
+Pasta Hut,3.4,58
+Gullu's,3,57
+New Punjabi Khana,3.5,56
+Punjabi Zaika,2.35,55.75
+Cafe Coffee Day - The Lounge,2.8,55
+Chaska,2.375,55
+Coldpress Company,4.05,54
+Roll Club,3.066666667,54
+Wah Ji Wah,2.342105263,54
+Kolkata Kathi Roll,3.1,53
+Chicago Pizza,2.325,52.75
+Oh Buoy,3.35,52.5
+The Diet Kitchen,3.75,52.33333333
+Giani's,2.781818182,52.27272727
+Burger Point,3.145454545,52.18181818
+Chawla's?_,2.271428571,52
+Grillz,2.35,52
+Chawla's Chic Inn,3.033333333,51.66666667
+Sri Balaji,2.333333333,51.66666667
+Halki Aanch,3,51.5
+Raj Restaurant,2.75,51.5
+Singz,2.7,51.5
+Wagh Bakri Tea Lounge,3.6,51
+The Culinary Pitaara,3.5,51
+Chawla Family Restaurant,3.05,50.5
+Relax Xpress,3.2,50
+Tikka Junction,3.433333333,50
+Red Chilli,2.5,49.4
+Shri Ram Restaurant,2.85,49
+The Bake Studio,3.35,49
+Viva Hyderabad,2.38,48.6
+Prince Chaat Corner,3.45,48
+South Cafe,1.75,48
+Sushiya Express,3.633333333,48
+Foodhall,2.533333333,47.66666667
+Biryaniwala,2.35,47
+Hira Sweets,3.033333333,46.66666667
+Bikano Chat Cafe,2.8,46.5
+Polka Pastry & Snack Bar,3.1,46.33333333
+Hurry's Paratha,3.5,46
+Punjab Restaurant,3.266666667,45.66666667
+Madras Dosa & Chinese,1.35,45.5
+Sumo Sushi,3.95,45.5
+Sandoz,2.4,45
+Go Kylin,3.15,45
+Shankar Fast Food,2.95,44.5
+South Indian Corner,3.4,44.5
+Jaiveer Naan & Chaap,2.9,44.33333333
+JSB Evergreen Snack & Sweets,3.15,44
+Kathi Junction,1.625,43.5
+Pitstop,1.65,43.5
+Costa Coffee,2.415,43.05
+Pudding & Pie,3.166666667,43
+Flavours,3.1,42.5
+The Dosa King,3.05,42
+Madhuvan Chinese Fast Food,2.6,42
+Oberoi's,3.4,41.5
+Nukkadwala,2.82,41.2
+Vaishno Punjabi Dhaba,3.25,41
+Spooky Sky,3.45,41
+Apni Rasoi,1.941666667,40.75
+Qureshi Kabab Corner,3.65,40.5
+Zaaika Junction,2.85,40.5
+A Piece of Paris,3.75,40.5
+ZASTY,3.5,40
+Kumar Pastry Shop,3.25,39.5
+Tea Halt,2.866666667,39.33333333
+Behrouz Biryani,3.184615385,39.15384615
+Chinese King,2.5,38.5
+Raj Rasoi,1.65,38
+Midnight Hunger Hub,4.033333333,38
+Veg Ex,3.6,37.66666667
+Riyaz Chicken Corner,1.7,37.5
+Druk,3.45,37.5
+SGF - Spice Grill Flame,3.2,37.4
+Chinese Hut,2.728571429,37.28571429
+Keventers,2.870588235,37.14705882
+Tibb's Frankie,2.842857143,37.14285714
+Barista,3.072727273,37.04545455
+Hyderabad House,3.1,37
+Wheelyz,2.85,36.5
+Mr. Sub,2.583333333,36.16666667
+Bats On Delivery,2.7,36
+Punjabi Dhaba,2.2,35.66666667
+Brijwasi Restaurant,3,35.5
+Time To Tea,3.1,35.5
+Madras Cafe,1.918181818,35.36363636
+Punjabi Rasoi,1.25,34.5
+Mitthu Tikki Wala,3.3,33.5
+Fabulous Cake Bites,3.5,33.5
+The Kitchen,2.95,33.5
+Hasty Tasty,2.033333333,33
+Reena Restaurant,3.1,33
+Just Vada Pav,1.2,32.33333333
+Chimney,3.033333333,31.66666667
+Pakwan,2.075,31.5
+Haldiram Bhujiawala,3.45,31
+Momo-Cha,2.725,31
+Shree Durga Dosa,3.05,31
+Vadapav Junction,3.45,31
+Papa Veg Chinese Food,3.35,31
+The Chinese Hut,2.86,31
+Muradabadi Shahi Biryani & Chicken Corner,1.966666667,30.66666667
+Cakes & Bakes,3.166666667,30.66666667
+Hot Joint Fast Food,1.3,30.5
+South Indian Cafe,3,30
+Senorita's,1.85,30
+Garota de Ipanema,4.6,29.5
+Bake Club,3.15,29.5
+The Blue Tandoor,2.75,29.5
+Giani,2.689655172,29.44827586
+Cafe Coffee Day,2.419277108,29.25301205
+Tea Trails,1.85,29
+Chawla's 2,1.7,29
+Burger Xpress,1.625,29
+BarShala,3.266666667,28.33333333
+Rainbows,3.1,28.25
+Roti Aur Boti,3.35,28
+Mithaas Sweets,2.9,28
+Weird Time Food,3.35,28
+Mosaic - Country Inn & Suites by Carlson,3.45,28
+Kolkata Hot Kathi Roll,2.95,28
+Bunty Dhaba,2.833333333,28
+Punjabi Chaap Corner,2.35,27.625
+Midnight Hunger,3.45,27.5
+Miam,3.55,27.5
+Ammu's South Indian Restaurant,2.95,27.5
+Kitchen King,1.3,27.5
+Sonya Bakery Cafe,3.4,27
+Public Cafe,2.4,26.75
+Kati Roll Cottage,3.6,26.5
+Nawabi Mughlai Zaika,3.25,26.5
+Punjabee's Darbar,3.15,26.5
+Gopala,3.29,26.4
+Street Foods by Punjab Grill,1.933333333,26.33333333
+The Night Owl,1.4,26
+Zooby's Kitchen,3.15,26
+Jack Po!tato's,3.4,26
+Urban Dhaba,2.85,25.5
+Gulab,2.95,25.5
+Clever Fox Cafe,3.1,25.5
+Mirchievous,3.5,25
+Pandey Chinese Hut,2.7,25
+GoGourmet,2.65,24.75
+Gupta Ji Ka Dhaba,1.3,24.5
+KB's Kulfi & Icecream,3.133333333,24.33333333
+Shahenshah,3.133333333,24
+Ramesh Vaishno Dhaba,3.1,24
+Green Restaurant,1.8,23.5
+Coco Bambu,4.55,23.5
+Fresh n Refresh,3.1,23
+Punjabi Tadka,2.55,22.75
+True Blue,3.166666667,22.66666667
+New Zaika,2.75,22.5
+Bhappe Di Hatti,3.3,22.5
+The Cake Shop,1.65,22
+Super Snacks,1.55,22
+Bharat Sweets,3.333333333,21.66666667
+Bawarchi,3.125,21.5
+Metro Fast Food,2.65,21.5
+Shamji Sweets,3.05,20.5
+EDC Mania,1.65,20.5
+Aggarwal Sweets India,1.733333333,20.33333333
+Hangchuaa's Chinese Food Corner,2.966666667,20
+Havmor Ice Cream,3.366666667,19
+Green Chick Chop,2.67254902,18.90196078
+Momos House,3.1,18.5
+Snack Junction,3.1,18.5
+Chao Cart,3.2,18
+Flirty Momo's,2.92,17.8
+Liquid,3.6,17.5
+Gelato Vinto,2.975,17.5
+Pizza Diet,2.75,17.5
+China Hut,2.7,17
+Chaap Point,3.2,17
+Mahi Rasoi,1.3,17
+Faaso's,1.8,17
+Fluffles - The Fluffy Waffle Co.,3,17
+Spanish Delights,3.3,16.5
+Standard Sweets,1.8,16
+Pizza Yum,2.9,16
+Konetto Pizza,1.75,16
+Khalsa Veg Corner,3.25,16
+The Belgian Fries Company,1.85,16
+Ram Chinese Food,3,16
+New Madras Cafe,1.966666667,15.66666667
+Dilli Rasoi,1.6,15.5
+34 Parkstreet Lane,3.05,15.5
+The Chef,2.95,15.5
+China Hot Pot,2.75,15.5
+Wah G Wah,1.766666667,15.33333333
+Baskin Robbins,1.860714286,15.28571429
+Evergreen Sweets,2.7,15
+Twenty Four Seven,2.147368421,14.73684211
+The Mirch Masala,3.1,14.5
+Sagar Dhaba,1.55,14.5
+Anupam Sweets,2.55,14.5
+Amritsari Dhaba,3.05,14
+Chawlas 2,1.5,14
+Mom's Kitchen,1.75,14
+Shree Bikaner Misthan Bhandar,3,13.8
+Kings Kulfi,2.266666667,13.66666667
+Rajshree,3.2,13.5
+The China Town,1.7,13.5
+Cake 24x7,1.65,13.5
+Organic Express,3.2,13.5
+Health Buzzz,3.133333333,13.33333333
+Bikaner Kesarvala,1.6,13
+Papa Buns,1.8,13
+WTF - World's Tastiest Food,2.4,13
+Nirula's Ice Cream,2.4,13
+Republic of Chicken,2.422222222,13
+Vaishno Rasoi,1.3,13
+Juice Lounge,1.7,13
+Ovenstory Pizza,2.5,12.5
+Sardar A Pure Meat Shop,1.722222222,12.44444444
+Breaktym,2.766666667,12.33333333
+Crust N Cakes,3.3,12
+Sadda Adda,1.75,12
+Aggarwal's Sweets Paradise,2.8,12
+Pasta Hub,3.05,11.5
+Khan Chicken Biryani,2.9,11.5
+Mr. Baker's,1.5,11.5
+South Indian Hut,1.575,10.75
+Garden Hut,2.9,10.5
+Syall Kotian Da Dhaba,1.5,10
+Cake Point,1.74,9.8
+China Town,2.028571429,9.714285714
+Faasos,2.9375,9.625
+Green Chilli,1.4,9.5
+U Like,1.5,9.5
+Mr. Momo,1.35,9.5
+Biryani Vice,1.8,9.5
+Pizza Station,2.166666667,9.333333333
+Tandoori Tadka,1.65,9
+Chai Mantra,1.6,9
+Royale Bakers,1.4,9
+Frontier,2.828571429,8.928571429
+Puja Sandwich House,1.35,8.5
+The Pirates Of China Town,1.6,8.5
+Aapki Rasoi,1.525,8.5
+Niti Shake & Ice Cream Hub,1.266666667,8.333333333
+Aggarwal Sweet Corner,1.26,8.2
+Food Plaza,1.066666667,8
+Zaika Kathi Rolls,1.5,8
+Dilli Light,1.3,8
+Hunger's Hub,1.55,8
+Shama Chicken Corner,1.077777778,7.666666667
+Food Factory,1.5,7.5
+Snack Shack,1.35,7.5
+Chennai Express,1.6,7.5
+Bikaner's,2.65,7.5
+Dosa Plaza,1.6,7.5
+Bakingo,2.85,7.5
+Choco Kraft,1.6,7
+Balaji Dhaba,1.35,7
+Wild Chef House,1.55,7
+KC Bakers,1.6,7
+Aggarwal Sweet India,1.7,7
+Rolling Beans,2.8,7
+Roll Corner,1.65,7
+Chinese Food,2,7
+Bikaner Sweets,1.338461538,6.769230769
+Chinese Food Corner,0.833333333,6.666666667
+Amar Bakery,1.65,6.5
+Tandoori Junction,1.2,6.5
+Pastry Palace,1.6,6.5
+Brown Town,1.35,6.5
+Punjabi's Veg Grill,2.3,6.25
+Tpot,0.971428571,6.142857143
+Lazeez Restaurant,1.5,6
+Magic Masala,1.5,6
+Aggarwal Bikaneri Sweets,1.45,5.5
+Chauhan Hotel,1.45,5.5
+Yomo-Your Only Momo Outlet,3,5.5
+Ankur Family Restaurant,2.85,5.5
+Aggarwal Sweets & Restaurant,1.35,5.5
+Chai Thela,1.55,5.5
+The Taste,3.05,5.5
+Yo! Dimsum,1.5,5.5
+Super Cake Shop,2.05,5
+Adarsh Kulfi,1.5,5
+Grover Sweets,1.55,5
+Da Pizza Corner,2.26,4.6
+Shalimar Vyanjan,1.5,4.5
+Mogambo Kitchen,1.55,4.5
+The Roll Van,2.95,4.5
+Delhi Biryani Hut,1.35,4.5
+Al Zaika,1.45,4.5
+BonJuz,1.55,4
+6 Pack Momos,1.4,4
+Delight Express,1.45,4
+Rasoi,1.5,3.5
+Jain Restaurant,1.5,3.5
+Night Food Delivery,1.35,3.5
+Baba Chicken Ludhiana Wale,1.55,3.5
+Aggarwal Bikaner Sweets,1,3.333333333
+Flavors Of London,1,3.333333333
+Joost Juice Bar,1.066666667,3.333333333
+Desi Tadka,1.5,3
+Mother's Kitchen,1.45,3
+Cafe Buddy's,1.45,3
+The Chaiwalas,0.966666667,3
+Pandit Ji Ki Apni Rasoi,1.2,3
+Aggarwal Sweets,0.792857143,2.785714286
+Dolce Gelato,0.885714286,2.571428571
+Madras Coffee House,1.5,2.5
+Snacks Point,1.45,2.5
+Aggarwal Sweets Centre,1.45,2.5
+VadaPav 'n' Frankie,1.5,2.5
+Aggarwal Sweet & Bakers,1.45,2.5
+Mx Corn,0.775,2.5
+Sher-e-Punjab,1.5,2.5
+Pizza Hub,0,2.333333333
+Chai Garam,0.725,2.25
+Aggarwal Sweet Centre,0,2
+Hot & Spicy,1.45,2
+Dana Pani,1.4,2
+Radha Swami Shudh Vaishno Dhaba,0,2
+Fresh Meat CO,1.45,2
+Pizza Day,0,2
+Bikaner Sweets & Restaurant,0.516666667,1.833333333
+Amul Ice-Cream Parlour,1,1.666666667
+Singh Chicken,0,1.5
+Anand Sweets,0,1.5
+Flavours Kitchen,0,1.5
+D Food,0,1.5
+Chilli Tadka,0,1.5
+Lasha Chinese Food,0,1.5
+Punjabi Chicken,0,1.5
+Biryani Bot,0,1.5
+Kesarwa Bakez,0,1.5
+Kwality Wall's Swirl's,0.6,1.2
+Golden Bakery,0,1
+Kake Da Dhaba,0,1
+Kettle & Kegs,0,1
+Bikaner Sweets & Bakers,0,1
+Maggi Point,0,1
+Dial A Cake,0,1
+Da Pizza Zone,0,1
+Meatwale.com,0,1
+Riyaz Biryani Corner,0,1
+Rasoi - The Indian Zaika,0,1
+Soya Bite's,0,1
+OCD - Online Cake Delivery,0,1
+Yadav Sweets,0,1
+Chinese Hot,0,0.5
+Biryani Express,0,0.5
+Special Chicken Biryani,0,0.5
+The Square Meal,0,0.5
+Pizza King,0,0.5
+Delhi Chaat Bhandar,0,0.5
+Night Munchers,0,0.5
+Big Biryani,0,0.5
+Ghar Ka Khana,0,0.5
+Essen Foods,0,0.5
+Royal Spice,0,0.5
+Bikaner Rasoi,0,0.5
+Aap Ki Khatir,0,0
+Jyoti Sweets,0,0
+Murliwala Bakers,0,0
+Green Valley Chinese Food,0,0
+Street Cafe,0,0
+Whatslife.in,0,0
+The Big Scoop,0,0
+Rajdhani Restaurant,0,0
+Bake Walkers,0,0
+Dev Food,0,0
+Chinese Fast Food,0,0
+Foodies,0,0
+Firangi Bake,0,0
+Garam Masala,0,0
+Bikaner Misthan Bhandar,0,0
+Grand Total,2.789055944,179.6660839
